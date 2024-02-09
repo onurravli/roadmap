@@ -1,6 +1,6 @@
 ## Roadmap
 
-Hello. In this repo, I'll be writing about my life-long plans and goals.
+In this repo, I'll be writing about my life-long plans and goals.
 
 | ID  |          Plan/Goal           |  Added On  | Updated On |   Status    | Priority (1-5) |
 | :-: | :--------------------------: | :--------: | :--------: | :---------: | :------------: |
